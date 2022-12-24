@@ -21,13 +21,13 @@
 </div>	   
    
 ## 1️⃣ Intro & Type Annotations      
-#### [codes for lessons from [001] to [011]](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1)  
-[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%201)    
-[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%202)    
-[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%203)    
-[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%204)    
-[     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/Assignment%205)    
-[     • Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/Assignment%206)     
+#### [codes for lessons from [001] to [011]]()  
+[     • Assignment 1]()    
+[     • Assignment 2]()    
+[     • Assignment 3]()    
+[     • Assignment 4]()    
+[     • Assignment 5]()    
+[     • Assignment 6]()     
 
 
 
