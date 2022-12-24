@@ -28,13 +28,9 @@
 [     • Assignment 4](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%204)    
 [     • Assignment 5](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%205)    
 [     • Assignment 6](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%206)
-[     • Assignment 7](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%207) 
-[     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%208) 
 
-
-
-
-
+[     • Assignment 7](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%207)    
+[     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%208)   
 
 <br><div align="center">
 
