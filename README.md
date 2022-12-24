@@ -21,7 +21,7 @@
 </div>	   
    
 ## 1️⃣ Intro & Type Annotations      
-#### [codes for lessons from [001] to [011]]()  
+#### [codes for lessons from [001] to [011]](https://github.com/onisEg/learn-Typescript/tree/main/week%201)  
 [     • Assignment 1]()    
 [     • Assignment 2]()    
 [     • Assignment 3]()    
