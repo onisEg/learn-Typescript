@@ -22,9 +22,9 @@
    
 ## 1️⃣ Intro & Type Annotations      
 #### [codes for lessons from [001] to [011]](https://github.com/onisEg/learn-Typescript/tree/main/week%201)  
-[     • Assignment 1]()    
-[     • Assignment 2]()    
-[     • Assignment 3]()    
+[     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/4bce6634f607301e7750632489d611900e8ad36f/week%201/Assignment%201)    
+[     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/4bce6634f607301e7750632489d611900e8ad36f/week%201/Assignment%202)    
+[     • Assignment 3](https://github.com/onisEg/learn-Typescript/tree/4bce6634f607301e7750632489d611900e8ad36f/week%201/Assignment%203)    
 [     • Assignment 4]()    
 [     • Assignment 5]()    
 [     • Assignment 6]()     
