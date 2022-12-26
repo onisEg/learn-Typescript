@@ -32,6 +32,19 @@
 [     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%208)     
 
 
+
+   
+## 1️⃣ Data Types    
+#### [codes for lessons from [012] to [021]](https://github.com/onisEg/learn-Typescript/tree/main/week%202)  
+[     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%201)       
+[     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%202)      
+[     • Assignment 3](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%203)   
+[     • Assignment 4](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%204)  
+[     • Assignment 5](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%205)  
+[     • Assignment 6](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%206)  
+[     • Assignment 7](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%207)  
+[     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%208)     
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/onisEg" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
