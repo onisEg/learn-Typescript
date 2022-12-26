@@ -20,7 +20,7 @@
 	<p>Elzero Web School Js Course Assignments Solutions 💻</p>
 </div>	   
    
-## 1️⃣ Intro & Type Annotations      
+## 🥇 Intro & Type Annotations      
 #### [codes for lessons from [001] to [011]](https://github.com/onisEg/learn-Typescript/tree/main/week%201)  
 [     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%201)       
 [     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%202)      
@@ -34,7 +34,7 @@
 
 
    
-## 1️⃣ Data Types    
+## 🥈 Data Types    
 #### [codes for lessons from [012] to [021]](https://github.com/onisEg/learn-Typescript/tree/main/week%202)  
 [     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%201)       
 [     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%202)      
