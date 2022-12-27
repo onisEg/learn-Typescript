@@ -1,11 +1,11 @@
 // Edit The Interface To Fix The Problems
 interface Member {
-    id: number|string;
+    id: number|string;      // add string annotation
     username: string;
-    country?: string;
-    state: boolean;
-    getName(): string;
-  
+    country?: string;       // make it optional
+    state: boolean;         // remove readonly
+    getName(): string;      // create function return string
+    
 }
 
 // Do Not Edit The Code Below
