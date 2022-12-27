@@ -20,7 +20,7 @@
 	<p>Elzero Web School Js Course Assignments Solutions 💻</p>
 </div>	   
    
-## 1️⃣ Intro & Type Annotations      
+## 🥇 Intro & Type Annotations      
 #### [codes for lessons from [001] to [011]](https://github.com/onisEg/learn-Typescript/tree/main/week%201)  
 [     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%201)       
 [     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%202)      
@@ -31,6 +31,19 @@
 [     • Assignment 7](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%207)  
 [     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%201/Assignment%208)     
 
+
+
+   
+## 🥈 Data Types    
+#### [codes for lessons from [012] to [021]](https://github.com/onisEg/learn-Typescript/tree/main/week%202)  
+[     • Assignment 1](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%201)       
+[     • Assignment 2](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%202)      
+[     • Assignment 3](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%203)   
+[     • Assignment 4](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%204)  
+[     • Assignment 5](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%205)  
+[     • Assignment 6](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%206)  
+[     • Assignment 7](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%207)  
+[     • Assignment 8](https://github.com/onisEg/learn-Typescript/tree/main/week%202/Assignment%208)     
 
 <br><div align="center">
 
