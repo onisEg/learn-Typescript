@@ -14,7 +14,6 @@ class Player{
       return `${this.vip ? "VIP " : ""}${this.name}, Type Is ${this.type} Level Is ${this.level}`;
     }
   }
-
 }
 
 
