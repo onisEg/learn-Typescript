@@ -1,15 +1,23 @@
 // Create Class Here
-class Player {
-  constructor(
-    public name: string,
-    public type: string,
-    public level: number | string,
-    public vip?: boolean
-  ) {}
-  details() {
-    return `${this.vip ? "VIP " : ""}${this.name}, Type Is ${this.type} Level Is ${this.level}`;
+class Player{
+  n: string;
+  t: string;
+  l: string | number;
+  v?: boolean;
+  details: () => string;
+  constructor(public name: string, public type: string, public level: number | string, public vip?: boolean) {
+    this.n = name;
+    this.t = type;
+    this.l = level;
+    this.v = vip;
+    this.details = function () {
+      return `${this.vip ? "VIP " : ""}${this.name}, Type Is ${this.type} Level Is ${this.level}`;
+    }
   }
+
 }
+
+
 // Do Not Edit The Code Below
 let player1 = new Player("Osama", "Mage", 90, true);
 let player2 = new Player("Shady", "Archer", "85", false);
